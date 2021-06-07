@@ -1,0 +1,20 @@
+﻿@model IEnumerable<OOP_lab3_web.Models.Product>
+@{
+    ViewBag.Title = "Все товары";
+}
+
+<a asp-action="Create">Добавить товар</a>
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.name</td>
+            <td>
+                <a asp-action="Details" asp-controller="Home" asp-route-id="@item.id">Подробнее</a> |
+                <a asp-action="Edit" asp-controller="Home" asp-route-id="@item.id">Изменить</a> |
+                <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.id">Удалить</a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,8 @@
+C:\Users\andre\source\repos\KOOP_LABS2\Lab3\obj\Debug\net5.0\Lab3.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\KOOP_LABS2\Lab3\obj\Debug\net5.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\KOOP_LABS2\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\KOOP_LABS2\Lab3\obj\Debug\net5.0\Lab3.AssemblyInfo.cs
+C:\Users\andre\source\repos\KOOP_LABS2\Lab3\obj\Debug\net5.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\KOOP_LABS2\Lab3\obj\Debug\net5.0\Lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\source\repos\KOOP_LABS2\Lab3\obj\Debug\net5.0\Lab3.RazorAssemblyInfo.cache
+C:\Users\andre\source\repos\KOOP_LABS2\Lab3\obj\Debug\net5.0\Lab3.RazorAssemblyInfo.cs

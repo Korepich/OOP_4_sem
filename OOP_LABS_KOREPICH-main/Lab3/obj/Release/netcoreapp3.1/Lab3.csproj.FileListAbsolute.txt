@@ -1,0 +1,7 @@
+D:\учеба\ООП\OOP_LABS_KOREPICH-main\KOOP_LABS2\Lab3\obj\Release\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
+D:\учеба\ООП\OOP_LABS_KOREPICH-main\KOOP_LABS2\Lab3\obj\Release\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+D:\учеба\ООП\OOP_LABS_KOREPICH-main\KOOP_LABS2\Lab3\obj\Release\netcoreapp3.1\Lab3.AssemblyInfo.cs
+D:\учеба\ООП\OOP_LABS_KOREPICH-main\KOOP_LABS2\Lab3\obj\Release\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+D:\учеба\ООП\OOP_LABS_KOREPICH-main\KOOP_LABS2\Lab3\obj\Release\netcoreapp3.1\Lab3.MvcApplicationPartsAssemblyInfo.cache
+D:\учеба\ООП\OOP_LABS_KOREPICH-main\KOOP_LABS2\Lab3\obj\Release\netcoreapp3.1\Lab3.RazorAssemblyInfo.cache
+D:\учеба\ООП\OOP_LABS_KOREPICH-main\KOOP_LABS2\Lab3\obj\Release\netcoreapp3.1\Lab3.RazorAssemblyInfo.cs

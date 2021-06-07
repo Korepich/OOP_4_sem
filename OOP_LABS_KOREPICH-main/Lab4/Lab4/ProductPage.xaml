@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab4.ProductPage" Title="Ввод данных продукта">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Название продукта" />
+            <Entry Text="{Binding name}" />
+            <Label Text="Количество" />
+            <Entry Text="{Binding count}" Keyboard="Numeric"/>
+            <Label Text="Цена" />
+            <Entry Text="{Binding price}" Keyboard="Numeric"/>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Сохранить" Clicked="SaveProduct" />
+                <Button Text="Удалить" Clicked="DeleteProduct" />
+                <Button Text="Отмена" Clicked="Cancel" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
